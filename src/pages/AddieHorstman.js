@@ -15,7 +15,7 @@ export default function examplePage() {
                 />
 
                 <p className='description'>
-                    Hi, my name is Addie. I am from Minnesota and I have two cats and two dogs back home.
+                    Hi, my name is Addie. I am from Minnesota and I have two cats and two dogs back home. I am interested in Cybersecurity and possibly UI and UX.
 
                 </p>
 
