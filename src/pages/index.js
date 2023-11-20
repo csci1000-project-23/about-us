@@ -31,7 +31,7 @@ export default function Home() {
             <p>Click here to navigate to the Emma Cotrell about me page</p>
           </a>
           <a href='/CarolynDockhorn ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+            <h3>About Me Page &rarr;</h3>
             <p>Click here to navigate to the Carolyn Dockhorn about me page</p>
           </a>
 
